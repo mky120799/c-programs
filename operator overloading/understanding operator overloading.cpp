@@ -1,0 +1,7 @@
+/*     1. In general, overload is a term used to describe when a device or service exceeds its recommended limits. For example, a popular network may become overloaded with users or the power supply may become overloaded when a surge occurs. Often when an overload occurs, the device or service performs poorly or not at all.
+
+2. Overloading refers to a set of processes in computer programming by which one special word or symbol may be given multiple meanings:
+
+Function overloading is a feature found in several programming languages, notably C++ and Java, that allows several functionally different functions or methods to share the same name. For example, myfunction() and myfunction(object Obj) may be entirely separate functions. The compiler may choose which function to execute based on the arguments passed.
+
+Operator overloading, also known as "ad hoc polymorphism," is a process in computer programming. An operator (such as + or -) may be "overloaded" such that it performs a different operation, depending on its operands. For instance, a + b may perform addition if the variables a and b are both numbers. But if the + operator is overloaded to handle matrices, it can automatically perform matrix addition if a and b are matrices.
